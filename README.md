@@ -65,15 +65,19 @@ For more details about the project please refer to [**"Book Space Documentation.
 
 #### NOTE: All the required packages can be downloaded by running the command 
 ```pip install -r requirements.txt```
+
 ★ Next run the command: ```python mangage.py makemigrations```
+
 ★ Next run the command: ```python manage.py migrate```
+
 ★ Finally to run the server use the following command: ```python manage.py runserver```
+
 ★ Then the terminal will prompt to open a URL or else type http://127.0.0.1:8000/
 ## Team members :
 <pre>
-Anirudh Jakhotia          - S20190010007
-Neeraj Dusa               - S20190010047
 Harish Mullagura          - S20190010124
-Rakesh Ganeshula          - S20190010052
+Neeraj Dusa               - S20190010047
 Kanduri Jayanth Sri Ram   - S20190010084
+Anirudh Jakhotia          - S20190010007
+Rakesh Ganeshula          - S20190010052
 </pre>
