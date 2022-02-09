@@ -63,8 +63,7 @@ For more details about the project please refer to [**"Book Space Documentation.
 
 ★ Next run the command: ```pip install Pillow```
 
-#### NOTE: All the required packages can be downloaded by running the command 
-```pip install -r requirements.txt```
+#### NOTE: All the required packages can be downloaded by running the command  ```pip install -r requirements.txt```
 
 ★ Next run the command: ```python mangage.py makemigrations```
 
