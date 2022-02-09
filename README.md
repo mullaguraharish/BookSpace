@@ -44,8 +44,8 @@ In these present situations, it is difficult for poor people to even afford food
 
 For more details about the project please refer to [**"Book Space Documentation.pdf"**][1] and [**"Book Space PPT.pdf"**][2]
 
-[1]: https://github.com/anirudhjak06/BookSpace/blob/main/Book%20Space%20Documentation/Book%20Space%20Documentation.pdf "Title"
-[2]: https://github.com/anirudhjak06/BookSpace/blob/main/Book%20Space%20PPT/Book%20Space%20PPT.pptx "Title"
+[1]: https://github.com/mullaguraharish/BookSpace/blob/main/Book%20Space%20Documentation.pdf "Title"
+[2]: https://github.com/mullaguraharish/BookSpace/blob/main/Book%20Space%20PPT.pdf "Title"
 
 ## Get Started :
 
@@ -53,7 +53,7 @@ For more details about the project please refer to [**"Book Space Documentation.
 
 ★ Download and install python from the link: https://www.python.org/downloads/
 
-★ Open the command prompt and run the command: git clone https://github.com/anirudhjak06/BookSpace
+★ Open the command prompt and run the command: git clone https://github.com/mullaguraharish/BookSpace.git
 
 ★ Then cd to Project folder and then perform the below actions :
 
