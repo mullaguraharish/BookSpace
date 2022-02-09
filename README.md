@@ -26,7 +26,7 @@ In these present situations, it is difficult for poor people to even afford food
 
 - People who want to donate their books can login to this website and can fill in the details of the book like name, genre and condition of the book.
 
-- If the book is in good condition to read, then the user can fill the address and then a pick up guy comes to receive it.
+- If the book is in good condition to read, then the user can fill the address and then the delivery person comes to pick it.
 
 -  👨‍💻Donors will get points or coupons which will be helpful to buy books from the website with low cost!!
 
