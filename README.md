@@ -55,7 +55,7 @@ For more details about the project please refer to [**"Book Space Documentation.
 
 ★ Open the command prompt and run the command: git clone https://github.com/mullaguraharish/BookSpace.git
 
-★ Then cd to Project folder and then perform the below actions :
+★ Then cd to "BOOK SPACE" folder and then perform the below actions :
 
 ★ Next run the command: ```pip install django```
 
