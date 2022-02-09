@@ -42,7 +42,7 @@ In these present situations, it is difficult for poor people to even afford food
 
 - To get the project running, you need Python and Django installed. You also require libraries like Pillow, Django-filters also installed.
 
-For more details about the project please refer to [**"Book Space Documentation.pdf"**][1] and [**"Book Space PPT.pptx"**][2]
+For more details about the project please refer to [**"Book Space Documentation.pdf"**][1] and [**"Book Space PPT.pdf"**][2]
 
 [1]: https://github.com/anirudhjak06/BookSpace/blob/main/Book%20Space%20Documentation/Book%20Space%20Documentation.pdf "Title"
 [2]: https://github.com/anirudhjak06/BookSpace/blob/main/Book%20Space%20PPT/Book%20Space%20PPT.pptx "Title"
